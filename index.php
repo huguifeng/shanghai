@@ -6,7 +6,7 @@
  * @date 2016年11月5日
  *  用户前端入口文件
  */
-var_dump(2333);die;
+//var_dump(2333);die;
 // 定义为入口文件
 define('IS_INDEX', true);
 
