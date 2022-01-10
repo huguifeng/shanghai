@@ -5,7 +5,7 @@ return array(
     'cmsname' => 'PbootCMS',
     
     // 授权码，多个授权码使用英文逗号隔开，如：'aaaaa,bbbbb'
-    'sn' => '281BE285D7',
+    'sn' => '281BE285D7,970B81843E,CE4EA992CA',
     
     // 授权用户手机
     'sn_user' => '',
